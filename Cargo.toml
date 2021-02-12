@@ -3,6 +3,8 @@ name = "vexilla_client"
 version = "0.0.1"
 authors = ["Chris Griffing <cmgriffing@gmail.com>"]
 edition = "2018"
+description = "A Rust client for the Vexilla Feature Flag System"
+license = "MIT"
 
 
 [dependencies]
