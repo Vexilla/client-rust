@@ -1,0 +1,12 @@
+[package]
+name = "vexilla_client"
+version = "0.0.1"
+authors = ["Chris Griffing <cmgriffing@gmail.com>"]
+edition = "2018"
+
+
+[dependencies]
+reqwest = { version = "0.10", features = ["blocking"] }
+serde_json = "1.0"
+serde = { version = "1.0", features = ["derive"] }
+tokio = { version = "0.2", features = ["full"] }
