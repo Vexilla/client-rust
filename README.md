@@ -1,3 +1,7 @@
+# Warning: Repo Archived
+
+**This repo is archived. The latest functionality and newest versions of this SDK will be located in the main monorepo: https://github.com/vexilla/vexilla/clients/rust**
+
 # Vexilla Client - Rust
 
 This is the Rust client library for Vexilla, a static file based feature flag system.
